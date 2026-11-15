@@ -125,23 +125,7 @@ Minecraft 1.8.9 reads each player's skin, cape and model type from `NetworkPlaye
 
 ---
 
-## 🏗️ Build
-
-### ☁️ Google Colab (no PC needed)
-
-1. 📤 Upload `LocalAccountSkinApply-Colab.ipynb` to Google Colab
-2. ▶️ Press **Runtime -> Run all**
-3. 📥 Download `LocalAccountSkinApply-1.0.0.jar` and `LocalAccountSkinApply-Source.zip`
-
-### 💻 Local (JDK 8)
-
 ```
-./gradlew --no-daemon clean build
-```
-
-📦 The JAR appears in `build/libs/` (normal unsigned Forge mod JAR).
-
----
 
 ## 📋 Project info
 
