@@ -27,8 +27,8 @@ Built for **Forge 11.15.1.2318** on **Java 8** ☕
 ## 📦 Install
 
 1. ✅ Install Minecraft 1.8.9 with Forge 11.15.1.2318
-2. 📥 Install [LocalAccountSkinApply-1.0.0.jar](              into `.minecraft/mods`
-3👍 [LocalAccountSkinApply-Source.zip](
+2. 📥 Install **[LocalAccountSkinApply-1.0.0.jar](https://github.com/Anshaks/Local-Account-Skin-Apply/releases/tag/Mod)**              into `.minecraft/mods`
+3👍 **[LocalAccountSkinApply-Source.zip](https://github.com/Anshaks/Local-Account-Skin-Apply/releases/tag/Mod)**
 4. ▶️ Start the game
 
 ---
